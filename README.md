@@ -38,9 +38,11 @@ Abuse Category Distribution (Pie Chart)
 Average Threat Score (Single Value)
 
 🖼️ Screenshots
+<img width="1220" height="643" alt="Screenshot 2025-07-12 at 4 00 49 PM" src="https://github.com/user-attachments/assets/346a0d9d-c998-46e0-b942-b32ebbdab373" />
 
+<img width="1169" height="617" alt="Screenshot 2025-07-12 at 4 01 46 PM" src="https://github.com/user-attachments/assets/99257278-b3ce-49f7-8a5f-e44b2917424a" />
 
-
+<img width="1470" height="707" alt="Screenshot 2025-07-12 at 4 32 35 PM" src="https://github.com/user-attachments/assets/fffad7e3-fa8e-4373-865a-e7c3e6512ed2" />
 
 💡 Note
 
