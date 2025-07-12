@@ -1,0 +1,5 @@
+timestamp,alert_type,src_ip,dest_ip,user,subject,file_name,process
+2025-07-13 10:01:00,Brute Force,45.10.10.10,192.168.1.10,admin,,,
+2025-07-13 10:04:00,Phishing,203.0.113.5,192.168.1.15,bob,"Urgent: Account Notice",invoice.exe,
+2025-07-13 10:08:00,Malware Execution,142.250.77.100,192.168.1.20,alice,,,"powershell.exe -enc ZWNobyBoZWxsbw=="
+
