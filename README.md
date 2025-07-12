@@ -39,7 +39,8 @@ Average Threat Score (Single Value)
 
 🖼️ Screenshots
 
-<img width="1470" height="707" alt="Screenshot 2025-07-12 at 4 32 35 PM" src="https://github.com/user-attachments/assets/37d632be-82a8-4ec5-ae4e-ea5f61544ec4" />
+<img width="1470" height="707" alt="Screenshot 2025-07-12 at 4 32 35 PM" src="https://github.com/user-attachments/assets/df8530c4-983a-4e71-ba23-c58f8a44eeb5" />
+
 
 
 💡 Note
