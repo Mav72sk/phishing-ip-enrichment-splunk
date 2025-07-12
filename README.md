@@ -37,9 +37,9 @@ Top Threat Scores by IP (Bar Chart)
 Abuse Category Distribution (Pie Chart)
 Average Threat Score (Single Value)
 
-🖼️ Screenshots
+![Threat Intel Enrichment Dashboard](screenshots/threat-intel-dashboard.png)
 
-<img width="1470" height="707" alt="Screenshot 2025-07-12 at 4 32 35 PM" src="https://github.com/user-attachments/assets/df8530c4-983a-4e71-ba23-c58f8a44eeb5" />
+
 
 
 
